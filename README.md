@@ -1,5 +1,7 @@
 # EU CBAM default values
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23778086.svg)](https://doi.org/10.5281/zenodo.23778086)
+
 The EU's official CBAM default values as machine-readable JSON and CSV: direct, indirect and total embedded emissions (t CO2e per tonne of good) for every CN code and every country listed in Annex I, plus "Other countries and territories" and Annex IV (precursors of unknown origin). 11,170 rows, 121 countries. Also the Column A and B benchmarks with the CBAM factor for each year.
 
 Files:
