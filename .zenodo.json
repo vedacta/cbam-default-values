@@ -1,0 +1,27 @@
+{
+  "title": "EU CBAM default values and benchmarks (JSON and CSV)",
+  "description": "The EU's official CBAM default values as machine-readable JSON and CSV: direct, indirect and total embedded emissions (t CO2e per tonne of good) for every CN code and every country in Annex I of Implementing Regulation (EU) 2025/2621 as corrected by (EU) 2026/1740, plus Annex IV, and the Column A and B benchmarks of Implementing Regulation (EU) 2025/2620 with the CBAM factor per year. 11,170 rows, 121 countries. Unofficial compilation based on European Commission data (c) European Union; the Official Journal texts are binding.",
+  "upload_type": "dataset",
+  "access_right": "open",
+  "license": "cc-by-4.0",
+  "creators": [
+    {
+      "name": "Vedacta"
+    }
+  ],
+  "keywords": [
+    "CBAM",
+    "carbon border adjustment mechanism",
+    "default values",
+    "embedded emissions",
+    "benchmarks",
+    "EU"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://cbam.vedacta.com/cbam-default-values",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ]
+}
